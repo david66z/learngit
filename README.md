@@ -1,2 +1,2 @@
-Git is a version control system.
-this is nano
+Git is a distributed version control system.
+~~this is nano~~ This is VScode
