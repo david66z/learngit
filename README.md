@@ -6,7 +6,7 @@ Git is free software distributed under the GPL.
 ~~~
 import pytorch
 import numpy as np
-print("find your motiviation! and live happily.")
+print("Hello, github,find your motiviation!.")
 ~~~
 
 git track changes of files.
